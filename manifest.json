@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-hyper",
+  "repo": "documentation",
+  "versions": [
+    {
+      "commit": "64c346d5822c6ca9e8f0aa6636e678d650624343",
+      "parsed_at": "2026-10-28T13:15:59.927999+00:00",
+      "filetree": "filetree/64c346d5822c6ca9e8f0aa6636e678d650624343.nq.gz",
+      "blobs": [
+        "blob/5d2ac333d4d0d4236c69d0ddba58bc44bd90fd1f.nq.gz",
+        "blob/d6466b602473a2683ccf84a9f6c6dce140a058e3.nq.gz",
+        "blob/870a94b8b0fb9ec4eff4f894a98179ffbbc037eb.nq.gz",
+        "blob/f075daf8f4ff4604bebe99e06b92bbbee584b18a.nq.gz",
+        "blob/66acb384ece84a85664bc93d7554b3d6c8b6aff2.nq.gz",
+        "blob/1f24b377fb82846ec3d8b107df34e6fc56f88512.nq.gz",
+        "blob/02e93f46ea98bccf4e5f98c83944b665fbba9937.nq.gz",
+        "blob/9f2ac6009b94861b126b2c68a0a0ad72ac32587f.nq.gz",
+        "blob/f86fac90c2594632d05d3029208b50b85e1643e7.nq.gz",
+        "blob/04c9b4878306dcd95ba398c1f1d3a73e4a53329c.nq.gz",
+        "blob/f59e24a09efecb05e3480b94bce73ae73b303ea1.nq.gz",
+        "blob/6e757894b00b4a27a1c5ba5b5fd562ef7a600c1f.nq.gz",
+        "blob/6afe806357bfda9a745b5305b84aa43b51c0a53d.nq.gz",
+        "blob/25d499ce8d934324145df0a619a8f7c600946a38.nq.gz",
+        "blob/eb505264469499a647f080c1d991deb46222fdb6.nq.gz",
+        "blob/06f9dfb285c7a7e1dfccbf6e67f1ec9f59a8d201.nq.gz",
+        "blob/9f5594e8ebd6d49c3efc6a1e7fb6f6e57b2b2be6.nq.gz",
+        "blob/d6745675b310ad0bf921e470b9c1dff0fa12da5a.nq.gz",
+        "blob/6a4c92809b9535d438d94a9865fdcaa654733e22.nq.gz",
+        "blob/fdcfadeb0cecaaccb13c7700f5043cebadbba394.nq.gz",
+        "blob/baca6bdf07263018b86ed01c1d99f2c86cec8b64.nq.gz",
+        "blob/25cb25939d1640337513b76742d21d57a0620e95.nq.gz",
+        "blob/1648276cfd677ab4eaff65f1d622e9212ffc67c2.nq.gz",
+        "blob/4a4f054bad98dbbaa7fc6df0b5b49a3ef816c5b8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
